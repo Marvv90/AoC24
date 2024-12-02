@@ -3,7 +3,7 @@
 ## 🎄 My Solutions of Advent of Code-24 in JS 🎄
 
 [![Day](https://badgen.net/badge/01/%E2%98%85%E2%98%85/green)](day1)
-![Day](https://badgen.net/badge/02/%E2%98%86%E2%98%86/gray)
+[![Day](https://badgen.net/badge/02/%E2%98%85%E2%98%85/green)](day2)
 ![Day](https://badgen.net/badge/03/%E2%98%86%E2%98%86/gray)
 ![Day](https://badgen.net/badge/04/%E2%98%86%E2%98%86/gray)
 ![Day](https://badgen.net/badge/05/%E2%98%86%E2%98%86/gray)
