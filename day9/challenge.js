@@ -32,7 +32,6 @@ function task1() {
     for(let i = 0; i < data.length; i++) {
         blocks.push(...new Array(+data[i]).fill(i % 2 ? null : i / 2));
     }
-    console.log(blocks);
     
     let i = 0, j = blocks.length - 1
     while (true) {
